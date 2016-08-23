@@ -1,6 +1,6 @@
 linea a
 linea a.1
-linea a.2 
+linea a.2
 linea b
 linea b.1
 linea b.2
@@ -10,3 +10,5 @@ linea cambiada
 linea mateo c.3
 linea d.1
 linea d.2
+linea mia
+erick
