@@ -4,9 +4,8 @@ linea a.2
 linea b
 linea b.1
 linea b.2
-linea c
 linea c.1
 linea c.2
-linea d
+linea cambiada
 linea d.1
 linea mia
